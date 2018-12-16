@@ -1,5 +1,5 @@
 # sensitive-data-identifier
-Identifiying sensitive data
+Identifiying personal/sensitive data 
 
 # Project developers
 Rahul(rvarma4@illinois.edu), Prabhu(ipd2@illinois.edu) 
