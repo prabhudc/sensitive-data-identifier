@@ -1,7 +1,5 @@
 Document number being processed : 1
 
-Document being processed : files/output_10_oliver_twist.txt
-
 Total number of lines in the file : 19699
 
 Total number occurrences of Singaporean IDs in the file : 24====> The Singapore IDs are set(["[('Singapore ID', 'G5443455N'), ('Singapore ID', 'G5662300N')]"])
@@ -20,8 +18,6 @@ Total number of occurrences Credit Cards in the file : 215====> The credit-card 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Document number being processed : 2
 
-Document being processed : files/output_03_hamlet.txt
-
 Total number of lines in the file : 5085
 
 Total number occurrences of Singaporean IDs in the file : 3====> The Singapore IDs are set(["[('Singapore ID', 'G5443455N'), ('Singapore ID', 'G5662300N')]"])
@@ -39,8 +35,6 @@ Total number of occurrences Addresses in the file : 1527====> The Addresses are 
 Total number of occurrences Credit Cards in the file : 57====> The credit-card numbers are set(["[('CreditCard', '5520390013453416')]", "[('CreditCard', '5520-3877-1345-9898')]", "[('CreditCard', '5520390013453498')]", "[('CreditCard', '5520390013433413')]", "[('CreditCard', '5520391213453498')]", "[('CreditCard', '5520390093453413')]", "[('CreditCard', '5520390013453413'), ('CreditCard-AMEX', '379855587611009')]", "[('CreditCard', '5523490013459213')]"])
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Document number being processed : 3
-
-Document being processed : files/output_02_romeo_juliet.txt
 
 Total number of lines in the file : 5013
 
